@@ -1,0 +1,13 @@
+@import "tailwindcss";
+
+@theme {
+  --color-tu-blue: #00a8cb;
+  --color-tu-blue-hover: #0091af;
+  --color-tu-blue-light: #e6f7fa;
+  --color-tu-navy: #002d62;
+  --color-tu-navy-dark: #07172c;
+  --color-tu-navy-card: #0d223f;
+  --color-tu-navy-border: #183a66;
+  --color-tu-yellow: #fad702;
+  --color-tu-yellow-hover: #e5c400;
+}

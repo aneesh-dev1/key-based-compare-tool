@@ -1,0 +1,6 @@
+{
+  "name": "Key-Based Large Dataset Comparator",
+  "description": "High-throughput, out-of-core key-based comparison engine and workbench designed to accurately compare up to 10M rows across 2,000 columns within a 32GB RAM budget across CSV, Excel, and Parquet formats.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
